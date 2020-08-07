@@ -1,4 +1,12 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and [Ant Design](https://ant.design/). External API service provider used here is [Backendless](https://www.backendless.com).
+
+[Live Demo](https://5e7fa41464a27f0009b19d36--laughing-swanson-20d391.netlify.app/)
+
+## THIS IS AN OPEN SOURCE PROJECT, ANY BODY CAN FORK IT AND USE IT.
+
+### Initial Steps:
+1. `npm install`  -  To install all the packages
+2. `npm start`    -  To start the project
 
 ## Available Scripts
 
