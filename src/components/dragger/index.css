@@ -1,0 +1,19 @@
+.blog-data-form {
+    padding: 0;
+    position: absolute;
+    top: 100px;
+    left: 10px;
+}
+
+.blog-data-form-button {
+    margin-left: 10px;
+}
+
+.blog-data-form-input{
+    bottom: 0 !important;
+    width: 400px !important;
+    border-top: 1px solid #e8e8e8 !important;
+    padding: 10px 16px !important;
+    background: #fff !important;
+    border-radius: 0 0 4px 4px !important;
+}

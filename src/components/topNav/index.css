@@ -1,0 +1,64 @@
+.menu {
+    width: 100vw;
+    height: 65px;
+    background-color: #007bec;
+    line-height: 64px;
+    color: white;
+}
+
+.icon {
+    width: 120px;
+    height: 31px;
+    margin: 16px 24px 16px 0;
+}
+
+li:active, li:hover {
+    color: white;
+}
+
+.oval {
+    width: 34px;
+    height: 34px;
+    position: relative;
+    margin-top: 15px;
+    right: 0;
+    cursor: pointer;
+}
+.topNav-layout{
+    z-index: 30;
+    position: fixed;
+}
+.user-profile {
+    float: right;
+    color: white;
+}
+
+.dropdownMenu {
+    position: absolute;
+    top: 0px;
+}
+
+.menu-item {
+    color: white !important;
+}
+
+.ant-menu-item {
+    margin-top: -5px !important;
+}
+
+.ant-menu-horizontal > .ant-menu-horizontal > .ant-menu-submenu:hover, .ant-menu-horizontal > .ant-menu-item-active, .ant-menu-horizontal > .ant-menu-submenu-active, .ant-menu-horizontal > .ant-menu-item-open, .ant-menu-horizontal > .ant-menu-submenu-open, .ant-menu-horizontal > .ant-menu-item-selected, .ant-menu-horizontal > .ant-menu-submenu-selected {
+    color: white !important;
+}
+
+.ant-menu-item-selected, ant-menu-item-active, ant-menu-item:hover {
+
+    border-bottom: 0px solid white !important;
+}
+.ant-menu-item:hover {
+    background: white !important;
+    color: #007bec !important;
+}
+
+.menu-item:hover {
+    color: #007bec !important;
+}

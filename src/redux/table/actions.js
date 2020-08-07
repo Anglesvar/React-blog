@@ -1,0 +1,1 @@
+export const DELETE_BLOG_POST = "DELETE_BLOG_POST";

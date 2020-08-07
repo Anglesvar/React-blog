@@ -1,0 +1,98 @@
+.demo-infinite-container {
+    border: 1px solid #e8e8e8;
+    border-radius: 4px;
+    overflow: auto;
+    padding: 8px 0px 0px 0px;
+    height: 95vh;
+    width: 15vw;
+    position: fixed;
+    top: 65px;
+}
+
+.demo-loading-container {
+    position: absolute;
+    bottom: 100px;
+    width: 100%;
+    text-align: center;
+}
+
+.ant-list-header {
+    font-size: 18px;
+    font-weight: bold;
+}
+.ant-list-item-meta{
+    padding: 10px;
+}
+.blog-list-header{
+    font-size: 24px;
+    text-align: center;
+    font-weight: 700;
+}
+
+.menu {
+    width: 100vw;
+    height: 65px;
+    background-color: #007bec;
+}
+
+.icon {
+    width: 120px;
+    height: 31px;
+    margin: 16px 24px 16px 0;
+}
+
+li:active, li:hover {
+    color: white;
+}
+
+.oval {
+    width: 34px;
+    height: 34px;
+    position: relative;
+    margin-top: 15px;
+    right: 0;
+    cursor: pointer;
+}
+
+.user-profile {
+    float: right;
+    color: white;
+}
+
+.dropdownMenu {
+    position: absolute;
+    top: 0px;
+}
+
+.menu-item {
+    color: white !important;
+}
+
+.ant-menu-item {
+    margin-top: -5px !important;
+}
+
+.ant-menu-horizontal > .ant-menu-horizontal > .ant-menu-submenu:hover, .ant-menu-horizontal > .ant-menu-item-active, .ant-menu-horizontal > .ant-menu-submenu-active, .ant-menu-horizontal > .ant-menu-item-open, .ant-menu-horizontal > .ant-menu-submenu-open, .ant-menu-horizontal > .ant-menu-item-selected, .ant-menu-horizontal > .ant-menu-submenu-selected {
+    color: white !important;
+}
+
+.ant-menu-item-selected, ant-menu-item-active, ant-menu-item:hover {
+
+    border-bottom: 4px solid white !important;
+}
+
+.ant-menu-item:hover {
+    background: white !important;
+    color: #007bec !important;
+}
+
+.menu-item:hover {
+    color: #007bec !important;
+}
+.ant-list-item-meta-custom{
+    height: 80px !important;
+}
+.blog-spinner{
+    position: relative;
+    top: 50vh;
+}

@@ -1,0 +1,3 @@
+export const PAGINATION_CURRENT = "PAGINATION_CURRENT"
+export const LOADING = "LOADING";
+export const EDIT_POST = "EDIT_POST";

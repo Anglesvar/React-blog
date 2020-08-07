@@ -1,0 +1,58 @@
+body {
+    overflow-x: hidden;
+}
+
+.button {
+    height: 32px;
+    border-radius: 4px;
+    background-color: #1890ff;
+    position: relative;
+    left: 179px;
+}
+
+.login-form {
+    justify-content: center;
+    position: absolute;
+    left: 260px !important;
+    bottom: 200px !important;
+}
+
+.input-box{
+    width: 400px !important;
+    height: 40px !important;
+    border-radius: 4px;
+    border: solid 1px gray;
+    background-color: #ffffff;
+    margin-top: 8px !important;
+
+}
+
+.left-portion {
+    width: 60%;
+    height: 892px;
+    float: left;
+}
+
+.right-portion {
+    background-image: url(../../images/screen-1.png) !important;
+    height: 892px;
+    width: 40%;
+    float: right;
+}
+
+label {
+    width: 42px;
+    height: 22px;
+    font-family: PingFangSC;
+    font-size: 18px !important;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: 0.1px;
+    color: #000000;
+}
+.link{
+    display: inline-block;
+    float: right;
+}

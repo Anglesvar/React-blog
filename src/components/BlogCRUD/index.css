@@ -1,0 +1,40 @@
+.site-page-header-1 {
+    padding: 40px 150px !important;
+    width: 100vw;
+
+}
+.site-page-header-ghost-wrapper{
+    position: relative;
+    top: 5vh;
+}
+.blog-image-section {
+    height: 40vh;
+    width: 100vw;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.blog-content {
+    padding: 50px 150px !important;
+}
+
+.blog-content h1 {
+    font-family: PingFangSC;
+    font-size: 38px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: 0.19px;
+}
+
+.blog-content p {
+    font-family: PingFangSC;
+    font-size: 18px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.78;
+    letter-spacing: normal;
+}

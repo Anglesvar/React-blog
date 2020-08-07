@@ -1,0 +1,2 @@
+export const REGISTER = "REGISTER";
+export const SIGNUP_LOADING = "SIGNUP_LOADING";

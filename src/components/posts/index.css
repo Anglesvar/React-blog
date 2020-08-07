@@ -1,0 +1,23 @@
+.ant-drawer-content-wrapper {
+    width: 420px !important;
+}
+
+.user-options {
+    font-size: 20px;
+}
+
+.ant-table {
+    padding-right: 100px !important;
+    padding-left: 100px !important;
+}
+
+.posts-create-button {
+    display: flex;
+    position: relative;
+    top: 10px;
+    left: 20px;
+}
+
+.body {
+    padding-bottom: 30px;
+}

@@ -1,0 +1,45 @@
+.view-blog {
+    top: 7.5vh;
+    left: 20vw;
+    position: absolute;
+    height: 92.5vh;
+    width: 90vw;
+    padding: 50px;
+    padding-right: 300px;
+}
+
+.view-blog-image {
+    height: 40vh;
+    width: 75vw;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.view-blog-heading {
+    padding: 20px;
+}
+
+.view-blog-heading h1 {
+    font-size: 42px;
+    line-height: initial;
+}
+
+.view-blog-heading h4 {
+    position: relative;
+    left: 60px;
+    top: -45px;
+}
+
+.view-blog-icon {
+    position: relative;
+}
+.view-blog-claps{
+    display: inline-block;
+    position: relative;
+    top: 20px;
+    left: -40px;
+}
+.view-blog-content{
+    word-wrap: break-word;
+}

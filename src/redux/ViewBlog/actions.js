@@ -1,0 +1,8 @@
+export const SUBMIT_COMMENT = "SUBMIT_COMMENT"
+export const VIEW_DATA = "VIEW_DATA"
+export const VIEW_BLOG_POST_SELECT = "VIEW_BLOG_POST_SELECT"
+export const POST_COMMENT = "POST_COMMENT"
+export const COMMENT_VALUE = "COMMENT_VALUE"
+export const CLAPS = "CLAPS"
+export const UNCLAP = "UNCLAP"
+export const SHOW_MODAL = "SHOW_MODAL"
